@@ -10,6 +10,8 @@ npm run dev
 
 Open http://localhost:3000.
 
+The app runs in modern Chrome (111+), Edge (111+), Firefox (111+), and Safari (16.4+). Start the development server and open the URL above in any supported browser.
+
 ## Included in this prototype
 
 - Neighborhood, maximum rent, bedroom, and amenity filters.
